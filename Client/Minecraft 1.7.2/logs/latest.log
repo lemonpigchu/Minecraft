@@ -1,0 +1,29 @@
+[19:00:17] [main/INFO]: Setting user: LemonPig
+[19:00:17] [main/INFO]: (Session ID is token:${auth_access_token}:${auth_uuid})
+[19:00:18] [Client thread/INFO]: LWJGL Version: 2.9.0
+[19:00:18] [Client thread/INFO]: Reloading ResourceManager: Default
+[19:00:19] [Sound Library Loader/INFO]: Sound engine started
+[19:00:20] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:00:20] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:00:23] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
+[19:00:29] [Client thread/INFO]: Connecting to lemonpig.cn, 25565
+[19:02:07] [Client thread/INFO]: Connecting to lemonpig.cn, 25565
+[19:02:08] [Client thread/INFO]: [CHAT] LemonPig joined the game.
+[19:02:48] [Client thread/INFO]: [CHAT] Teleported LemonPig to 0.50, 100.50, 0.50
+[19:02:54] [Client thread/INFO]: Warning: Clientside chunk ticking took 195 ms
+[19:02:54] [Client thread/INFO]: Warning: Clientside chunk ticking took 191 ms
+[19:02:55] [Client thread/INFO]: Warning: Clientside chunk ticking took 248 ms
+[19:02:56] [Client thread/INFO]: Warning: Clientside chunk ticking took 166 ms
+[19:04:03] [Client thread/INFO]: Warning: Clientside chunk ticking took 336 ms
+[19:04:03] [Client thread/INFO]: Warning: Clientside chunk ticking took 323 ms
+[19:04:04] [Client thread/INFO]: Warning: Clientside chunk ticking took 320 ms
+[19:04:04] [Client thread/INFO]: Warning: Clientside chunk ticking took 321 ms
+[19:04:04] [Client thread/INFO]: Warning: Clientside chunk ticking took 369 ms
+[19:04:05] [Client thread/INFO]: Warning: Clientside chunk ticking took 317 ms
+[19:04:05] [Client thread/INFO]: Warning: Clientside chunk ticking took 373 ms
+[19:04:06] [Client thread/INFO]: Warning: Clientside chunk ticking took 369 ms
+[19:04:06] [Client thread/INFO]: Warning: Clientside chunk ticking took 483 ms
+[19:04:07] [Client thread/INFO]: Warning: Clientside chunk ticking took 259 ms
+[19:04:28] [Client thread/INFO]: [CHAT] LemonPig À¿¡À
+[19:04:28] [Client thread/INFO]: [CHAT] Ouch. That look like it hurt.
+[19:05:02] [Client thread/INFO]: Stopping!

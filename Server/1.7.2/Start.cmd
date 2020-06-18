@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jre7\bin\java.exe" -Xmx1024M -Xms1024M -jar C:\mc\1.7.2.jar
